@@ -1,0 +1,11 @@
+{
+  "stores": [
+    {
+      "slug": "herzog",
+      "name": "Herzog Jewelers",
+      "place": "Fort Mitchell, Kentucky",
+      "aliases": ["Herzog", "Herzog Jewelers Fort Mitchell"],
+      "live": false
+    }
+  ]
+}
